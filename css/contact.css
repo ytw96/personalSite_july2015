@@ -18,23 +18,30 @@ body{
 }
 
 
-#doggies{
+
+#form{
+	margin:0 auto;
+	width:500px;
+	margin-top:15%;
+}
+
+#form form input{
 	width:100%;
-
-
-}
-
-#doggies img {
-	width:24%;
-}
-
-#intro{
-
-	text-align:left;
-	padding:10px;
+	height:50px;
+	margin:5px;
+	font-size:12pt;
+	border-radius:10px;
 
 }
 
+
+#form form button{
+	background-color:white;
+	color:black;
+	margin-top:10px;
+	margin-left:225px;
+	border-radius:10px;
+}
 
 nav{
 

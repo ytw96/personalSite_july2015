@@ -10,7 +10,7 @@ body{
 
 	width:960px;
 	margin:0 auto;
-	height:90vh;
+	height:95vh;
 }
 
 #title{
@@ -18,14 +18,21 @@ body{
 }
 
 
-#newyork{
-	margin:0 auto;
-	width:640px;
+#doggies{
+	width:100%;
+
 
 }
 
-#newyork img {
-	width:100%;
+#doggies img {
+	width:24%;
+}
+
+#intro{
+
+	text-align:left;
+	padding:10px;
+
 }
 
 
